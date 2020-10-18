@@ -1,0 +1,12 @@
+♂ Lose the https://bit and the / stuff before you use it in your code's <FMI> later.
+Basically the bucket name in this instance would be rh-2020-02-25-s3site. << Make a note of yours.
+
+{
+
+    "Location": "http://mn-2020-10-17-s3site.s3.amazonaws.com/"
+}
+
+ My Public IPv4 is: 45.76.241.62
+My Public IPv6 is: Not Detected
+Location: Seattle, WA US
+ISP: Vultr Holdings LLC
